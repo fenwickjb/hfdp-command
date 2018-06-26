@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Eclipse files
+.settings/
+.classpath
+.project
